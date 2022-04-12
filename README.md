@@ -14,7 +14,7 @@ A custom module in Drupal 7 that allow users to control and add there own tasks 
 
 ## Issues that fixed 
 
-- fix expert status new that not visible in csv file.
+- fix export status new that not visible in csv file.
 - add "uid" column in tasks migration as an update. 
 - fix create and edit form with new assign to field to current user.
 - set new permission call "manage tasks".
